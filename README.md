@@ -1,11 +1,11 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently modifying my "CLEAN VISION" project (garbage detection model) to make it more scalable
 - 🌱 I’m currently learning about Automation 
 - 👯 I’m looking to collaborate on arduino-related projects
 - 🤔 I’m looking for help with model training
-- 💬 Ask me about Kotlin and Android Development
+- 💬 Ask me about Kotlin, Android Development, Internet Of Things
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 1 GB = 1000 MB and 1 GiB = 1024 MiB
 

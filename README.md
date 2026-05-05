@@ -9,10 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 1 GB = 1000 MB and 1 GiB = 1024 MiB
 
-
-I'm currently learning about machine learning and automation<br>Ask me about Kotlin and Android App development<br>Fun fact - 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaibhav-goel-7b66913a2/) 
 

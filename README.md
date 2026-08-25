@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaibhav-goel-7b66913a2/) 
-Medium - medium.com/@vv0106
+[![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@vv0106)
 
 
 # 💻 Tech Stack:

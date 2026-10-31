@@ -1,8 +1,8 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently building an AI-native commerce agent that converts natural-language purchase intent into product discovery.
-- 🌱 I’m currently learning and writing articles about Machine Learning
+- 🔭 I’m currently working on turning everything you copy into knowledge you can find again.
+- 🌱 I’m currently exploring new features of Navigation 3.
 - 👯 I’m looking to collaborate on AI/ML and application development related projects
 - 💬 Ask me about Kotlin, Android Development, Machine Learning and Internet Of Things
 - 😄 Pronouns: He/Him
